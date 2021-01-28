@@ -1,0 +1,23 @@
+/* sub.css(서브 페이지용) */
+
+/* 오시는 길 페이지 css*/
+#location > #main > section > header {
+    width: 100%;
+    height: 100px;
+    background: #ccc;
+    background-image: url(../images/location_header.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#location > #main > section > header > h1 {
+    line-height: 100px;
+    color: #fff;
+}
+
+#location > #main #map {
+    width: 100%;
+    height: 460px;
+    background: #ccc;
+
+}
